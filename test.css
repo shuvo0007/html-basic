@@ -1,8 +1,32 @@
 a.youtube{font-size: 50px;}
 
 a.youtube:link{color: red;}
-a.gg:link{color: red;}
+/* a.gg:link{color: blue;} */
+
+span{
+  color: blue;
+}
+
+/* box model 5 ta  */
+.boxmodel{
+  border: 10px dotted fuchsia;
+  width: 600px;
+  height: 200px;
+  margin: 100px;
+  padding: 50px;
+}
 /* id er style er # use korte hoy */
 #Nsong{
   background-color: blueviolet;
+}
+
+/* class style er jonno . use korte hoy */
+.song{
+  text-align: center;
+  border: 5px solid brown ;
+  border-radius: 30px;
+  width: 30%;
+  margin: 1px; 
+  padding: 20px 20px 20px 20px; /* top right down left*/
+  float: left;
 }
