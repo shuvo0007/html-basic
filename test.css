@@ -2,3 +2,7 @@ a.youtube{font-size: 50px;}
 
 a.youtube:link{color: red;}
 a.gg:link{color: red;}
+/* id er style er # use korte hoy */
+#Nsong{
+  background-color: blueviolet;
+}
