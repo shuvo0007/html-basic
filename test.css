@@ -3,6 +3,17 @@ a.youtube{font-size: 50px;}
 a.youtube:link{color: red;}
 /* a.gg:link{color: blue;} */
 
+.button{
+  
+  border: 1px solid;
+  border-radius: 15px;
+  padding: 2%;
+  text-decoration: none;
+  background-color: tomato;
+  color: black;
+  
+}
+
 span{
   color: blue;
 }
@@ -30,3 +41,9 @@ span{
   padding: 20px 20px 20px 20px; /* top right down left*/
   float: left;
 }
+ 
+.side-by-side-section{
+  height: 200px;
+  width: 100%;
+}
+    
